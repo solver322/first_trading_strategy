@@ -7,4 +7,3 @@ Implementation and testing of a trading bot
 ## Strategy
 The bot trades on a pair of BTC-USD on 5-minute intervals. It finds a local minimum/maximum and, subject to additional conditions, opens a long/short position. Exit the trade either by stop loss or ladder taking profit
 
-q
